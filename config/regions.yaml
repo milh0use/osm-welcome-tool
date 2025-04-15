@@ -167,6 +167,10 @@ regions:
       name: DACHLI-Obersee-Rheintal
       flag: 4️
       osmcha.id: abfd17fc-2809-4285-86ab-1e0336a68915
+    england:
+      name: England
+      flag: 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+      osmcha.id:
     france:
       name: France
       flag: 🇫🇷
